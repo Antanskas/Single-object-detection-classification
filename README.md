@@ -24,11 +24,18 @@ Classification part was inspired by ResNet architecture principles and for local
 ![regression training loss img](https://github.com/Antanskas/Object_classification-localization/blob/master/models/Regression/regression_15_loss.png)
 
 ## 4. Results
-
+- - -
 ![Image 1](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_1.PNG)  
-![Image 2](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_2.PNG)  
+- - -
+![Image 2](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_2.PNG) 
+- - -
 ![Image 3](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_3.PNG)   
+- - -
 ![Image 4](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_4.PNG)   
-![Image 5](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_5.PNG)   
-![Image 6](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_6.PNG)   
+- - -
+![Image 5](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_5.PNG)  
+- - -
+![Image 6](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_6.PNG) 
+- - -
 ![Image 7](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_7.PNG)
+- - -
