@@ -1,16 +1,17 @@
 # Object_classification+localization
 
-### Description
+## 1. Description
 Classify and localize 7 dog breeds using resnet  + regression heads ![dog img](https://github.com/Antanskas/Object_classification-localization/blob/master/repository_images/dog.png)
 
 
-### Environment 
+## 2. Environment 
 Google colaboratory GPU ![colab img](https://github.com/Antanskas/Object_classification-localization/blob/master/repository_images/colab.png)
 
-### Dataset
+## 3. Dataset
 Chose 7 common dog breeds from Stanford Dogs Dataset. Training on 1193 images ![books img](https://github.com/Antanskas/Object_classification-localization/blob/master/repository_images/books.png)
 
-### Results
+## 4. Results
+
 ![Image 1](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_1.PNG)
 ![Image 2](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_2.PNG)
 ![Image 3](https://github.com/Antanskas/Object_classification-localization/blob/master/outputs/output_3.PNG)
